@@ -1,0 +1,9 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"DESCRIPTION";"HEIGHT";"MANUFACTURER_NAME";"MANUFACTURER_PART_NUMBER";"MOUSER_PART_NUMBER";"MOUSER_PRICE-STOCK";"SPICEPREFIX";
+"4";"";"PINHD-1X8";"1X08";"JP2, JP4, JP5, JP6";"PIN HEADER";"";"";"";"";"";"";"";
+"1";".1uF";"885012207098";"CAPC2012X90N";"C1";"Multilayer Ceramic Capacitors MLCC - SMD/SMT WCAP-CSGP 0.1uF 0805 10% 50V MLCC";"Multilayer Ceramic Capacitors MLCC - SMD/SMT WCAP-CSGP 0.1uF 0805 10% 50V MLCC";"0.9mm";"Wurth Elektronik";"885012207098";"710-885012207098";"https://www.mouser.com/Search/Refine.aspx?Keyword=710-885012207098";"";
+"2";"10k";"ERJ-6GEYJ472V";"RESC2013X65N";"R3, R4";"RESISTOR, 0805 4.7K Ohm +/-5% 0.125 W";"RESISTOR, 0805 4.7K Ohm +/-5% 0.125 W";"mm";"Panasonic";"ERJ-6GEYJ472V";"667-ERJ-6GEYJ472V";"https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-6GEYJ472V";"";
+"1";"10uF";"GRM21BR61E106MA73L";"CAPC2012X145N";"C2";"Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 10uF 25volts X5R 20%";"Multilayer Ceramic Capacitors MLCC - SMD/SMT 0805 10uF 25volts X5R 20%";"1.45mm";"Murata Electronics";"GRM21BR61E106MA73L";"81-GRM21BR61E106MA3L";"https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM21BR61E106MA3L";"";
+"1";"33k";"ERJ-6GEYJ472V";"RESC2013X65N";"R5";"RESISTOR, 0805 4.7K Ohm +/-5% 0.125 W";"RESISTOR, 0805 4.7K Ohm +/-5% 0.125 W";"mm";"Panasonic";"ERJ-6GEYJ472V";"667-ERJ-6GEYJ472V";"https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-6GEYJ472V";"";
+"2";"4.7nF";"C-EUC0805";"C0805";"C3, C4";"CAPACITOR, European symbol";"";"";"";"";"";"";"C";
+"2";"4k7";"ERJ-6GEYJ472V";"RESC2013X65N";"R1, R2";"RESISTOR, 0805 4.7K Ohm +/-5% 0.125 W";"RESISTOR, 0805 4.7K Ohm +/-5% 0.125 W";"mm";"Panasonic";"ERJ-6GEYJ472V";"667-ERJ-6GEYJ472V";"https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-6GEYJ472V";"";
+"1";"ATTINY85 SOCKET";"DIL8ATTINY85";"DIL08ATTINY85";"IC1";"Dual In Line / Socket";"";"";"";"";"";"";"";
